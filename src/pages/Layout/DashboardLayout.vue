@@ -8,6 +8,19 @@
         <md-icon>dashboard</md-icon>
         <p>Dashboard</p>
       </sidebar-link>
+      <sidebar-link to="/#">
+        <md-icon>schedule</md-icon>
+        <p>Schedule</p>
+      </sidebar-link>
+      <sidebar-link to="/#">
+        <md-icon>format_list_bulleted</md-icon>
+        <p>Catalog</p>
+      </sidebar-link>
+      <sidebar-link to="/users">
+        <md-icon>group</md-icon>
+        <p>Users</p>
+      </sidebar-link>
+      <br>
       <sidebar-link to="/user">
         <md-icon>person</md-icon>
         <p>User Profile</p>
@@ -16,26 +29,22 @@
         <md-icon>content_paste</md-icon>
         <p>Table list</p>
       </sidebar-link>
-      <sidebar-link to="/typography">
-        <md-icon>library_books</md-icon>
-        <p>Typography</p>
-      </sidebar-link>
-      <sidebar-link to="/icons">
-        <md-icon>bubble_chart</md-icon>
-        <p>Icons</p>
-      </sidebar-link>
-      <sidebar-link to="/maps">
-        <md-icon>location_on</md-icon>
-        <p>Maps</p>
-      </sidebar-link>
-      <sidebar-link to="/notifications">
-        <md-icon>notifications</md-icon>
-        <p>Notifications</p>
-      </sidebar-link>
-      <sidebar-link to="/upgrade" class="active-pro">
-        <md-icon>unarchive</md-icon>
-        <p>Upgrade to PRO</p>
-      </sidebar-link>
+      <!--<sidebar-link to="/typography">-->
+        <!--<md-icon>library_books</md-icon>-->
+        <!--<p>Typography</p>-->
+      <!--</sidebar-link>-->
+      <!--<sidebar-link to="/icons">-->
+        <!--<md-icon>bubble_chart</md-icon>-->
+        <!--<p>Icons</p>-->
+      <!--</sidebar-link>-->
+      <!--<sidebar-link to="/maps">-->
+        <!--<md-icon>location_on</md-icon>-->
+        <!--<p>Maps</p>-->
+      <!--</sidebar-link>-->
+      <!--<sidebar-link to="/notifications">-->
+        <!--<md-icon>notifications</md-icon>-->
+        <!--<p>Notifications</p>-->
+      <!--</sidebar-link>-->
     </side-bar>
 
     <div class="main-panel">
