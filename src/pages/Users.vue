@@ -1,9 +1,9 @@
 <template>
   <div class="content">
     <div class="md-layout">
-        <user-main-content>
-
-        </user-main-content>
+      <h1>Test pages</h1>
+        <!--<user-main-content>-->
+        <!--</user-main-content>-->
     </div>
   </div>
 </template>
