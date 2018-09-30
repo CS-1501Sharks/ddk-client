@@ -8,7 +8,7 @@
         <md-icon>dashboard</md-icon>
         <p>Dashboard</p>
       </sidebar-link>
-      <sidebar-link to="/#">
+      <sidebar-link to="/schedule">
         <md-icon>schedule</md-icon>
         <p>Schedule</p>
       </sidebar-link>
