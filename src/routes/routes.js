@@ -3,12 +3,14 @@ import Dashboard from '@/pages/Dashboard.vue'
 import UserProfile from '@/pages/UserProfile.vue'
 import Users from '@/pages/Users.vue'
 import Schedule from '@/pages/Schedule.vue'
+import Catalog from '@/pages/Catalog.vue'
 import TableList from '@/pages/TableList.vue'
 import Typography from '@/pages/Typography.vue'
 import Icons from '@/pages/Icons.vue'
 import Maps from '@/pages/Maps.vue'
 import Notifications from '@/pages/Notifications.vue'
 import UpgradeToPRO from '@/pages/UpgradeToPRO.vue'
+
 
 const routes = [
   {
@@ -25,6 +27,11 @@ const routes = [
         path: 'schedule',
         name: 'Schedule',
         component: Schedule
+      },
+      {
+        path: 'catalog',
+        name: 'Catalog',
+        component: Catalog
       },
       {
         path: 'users',

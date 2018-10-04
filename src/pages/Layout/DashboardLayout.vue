@@ -12,7 +12,7 @@
         <md-icon>schedule</md-icon>
         <p>Schedule</p>
       </sidebar-link>
-      <sidebar-link to="/#">
+      <sidebar-link to="/catalog">
         <md-icon>format_list_bulleted</md-icon>
         <p>Catalog</p>
       </sidebar-link>
